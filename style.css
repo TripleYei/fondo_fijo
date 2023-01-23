@@ -1,0 +1,51 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+section{
+    height: 100vh;
+    border-top: 1.5px solid #262626;
+    background: cover;
+
+}
+
+.n1{
+    background: url(https://picsum.photos/200);
+    background-attachment: fixed;
+    
+
+}
+
+.n2{
+    background: url(hhttps://picsum.photos/200/300);
+    background-attachment: fixed;
+    
+
+}
+
+.n3{
+    background: url(https://picsum.photos/seed/picsum/200/300);
+    background-attachment: fixed;
+    
+
+}
+
+.n4{
+    background: url(https://picsum.photos/200/300?grayscale);
+    background-attachment: fixed; 
+    
+
+}
+
+
+.n5{
+    background: url(https://picsum.photos/200/300/?blur);
+    background-attachment: fixed; 
+    
+
+}
+
+
+
+
